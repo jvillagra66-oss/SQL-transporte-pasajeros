@@ -75,7 +75,3 @@ https://github.com/jvillagra66-oss/SQL-TRANSPORTE-PASAJEROS-/blob/main/Imagenes%
 ## 👤 Autor
 
 **Jorge Villagra** — Supply Chain & Data Analyst
-
-6 años de experiencia en logística y distribución nacional
-
-[![GitHub](https://img.shields.io/badge/GitHub-jvillagra66--oss-181717?style=flat&logo=github)](https://github.com/jvillagra66-oss)
